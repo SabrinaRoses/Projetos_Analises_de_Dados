@@ -1,15 +1,10 @@
-# 📊 Análise de Vendas – Superstore Dataset
+# 📊 Análise de Vendas com SQL, Excel e Power BI | Superstore Dataset
 
 Projeto de análise de dados com foco em KPIs, visualização de dados e exploração de vendas de uma loja fictícia, utilizando **SQL, Excel e Power BI**.
 
 ## 🧠 Objetivo
 
-Explorar e visualizar os dados de vendas com foco em:
-
-* Identificar padrões de lucro, desconto e vendas
-* Detectar produtos e regiões mais lucrativas (ou deficitárias)
-* Construir dashboards interativos com KPIs claros
-* Demonstrar habilidades em modelagem, DAX, EDA e storytelling com dados
+Demonstrar habilidades práticas em modelagem de dados, DAX, exploração (EDA) e construção de narrativas com dados (data storytelling).
 
 ---
 
@@ -32,7 +27,7 @@ Projeto_Analise_Vendas/
 
 ## 🔍 Ferramentas Utilizadas
 
-* 📈 **Excel** – Limpeza, tabelas dinâmicas e gráficosv
+* 📈 **Excel** – Limpeza, tabelas dinâmicas e gráficos
 * 📀 **SQL** – Exploração inicial dos dados e criação de tabelas agregadas
 * 📊 **Power BI** – Visualizações interativas, KPIs, DAX e storytelling
 
@@ -52,7 +47,7 @@ Projeto_Analise_Vendas/
 
 > Onde planejei e organizei todas as etapas do meu projeto, desde a exploração dos dados até a criação dos dashboards.
 
-🔗 [Acessar o Notion](https://www.notion.so/An-lise-de-Vendas-Superstore-241e462db0f9806fb98cf9e27b05b76f?source=copy_link) 
+🔗 [Acesse o planejamento no Notion](https://www.notion.so/An-lise-de-Vendas-Superstore-241e462db0f9806fb98cf9e27b05b76f?source=copy_link) 
 
 ---
 
@@ -88,7 +83,8 @@ Projeto_Analise_Vendas/
 * Nessa publicação mostro os dashboard, insights e a explicação do projeto em formato visual.
 Aceda para ver o resultado final. 
 * Sinta-se à vontade para contribuir com seus próprios insights!
-🔗 [Ver Projeto]
+
+🔗 [Visualização completa]()
 
 ---
 
