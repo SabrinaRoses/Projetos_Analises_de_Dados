@@ -32,8 +32,8 @@ Projeto_Analise_Vendas/
 
 ## 🔍 Ferramentas Utilizadas
 
+* 📈 **Excel** – Limpeza, tabelas dinâmicas e gráficosv
 * 📀 **SQL** – Exploração inicial dos dados e criação de tabelas agregadas
-* 📈 **Excel** – Limpeza, tabelas dinâmicas e gráficos
 * 📊 **Power BI** – Visualizações interativas, KPIs, DAX e storytelling
 
 ---
@@ -43,8 +43,7 @@ Projeto_Analise_Vendas/
 * Lucro e vendas por região e categoria
 * Margem de lucro e desconto médio
 * Produtos mais vendidos (Top 10)
-* Alertas visuais para prejuízo (Profit < 0)
-* Relação entre desconto e lucro
+* Produtos com profit negativo
 * Análise por segmento de clientes
 
 ---
@@ -53,7 +52,7 @@ Projeto_Analise_Vendas/
 
 > Onde planejei e organizei todas as etapas do meu projeto, desde a exploração dos dados até a criação dos dashboards.
 
-🔗 [Acessar o Notion](#)
+🔗 [Acessar o Notion](#) 
 
 ---
 
@@ -64,30 +63,18 @@ Projeto_Analise_Vendas/
 
 ---
 
-## 📊 Dashboard Power BI
-
-> Painéis interativos com KPIs, filtros e gráficos de fácil interpretação.
-
-📷 Veja abaixo uma prévia (screenshots):
-*adicione aqui imagens do dashboard*
-
----
-
 ## 💡 Conclusões e Insights
 
+
+* Os descontos estão muito altos, impactando significamente os lucros:
+- Solução seria gerir melhor o desconto para os clientes mais frequentes.
+- As melhores vendas são na região oeste, enquanto a sul tem um valor bem abaixo das outras categorias
+- Solução seria analisar o perfil do cliente da região south e efetuar campanhas de marketing direcionadas. 
 * A categoria X gerou o maior lucro, mas com alta variação por subcategoria
 * Alta correlação negativa entre desconto e lucro
 * Região Y apresenta lucros negativos consistentes
 * Produtos Z tiveram alto volume de vendas, mas baixa lucratividade
 
----
-
-## 🧙‍♀️ O que aprendi
-
-* Boas práticas de organização e documentação
-* Modelagem de dados no Power BI
-* DAX para KPIs e alertas
-* Relações entre dados de diferentes fontes (Excel + SQL)
 
 ---
 
