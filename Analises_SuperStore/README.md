@@ -84,7 +84,7 @@ Projeto_Analise_Vendas/
 Aceda para ver o resultado final. 
 * Sinta-se à vontade para contribuir com seus próprios insights!
 
-🔗 [Visualização completa]()
+🔗 [Visualização completa](https://www.linkedin.com/posts/sabrinaroses_exploratory-data-analysis-excel-sql-activity-7359158162031022080-RDev?utm_source=share&utm_medium=member_desktop&rcm=ACoAADCwRGMB2UCmYH5-2MLS_G-JppPPzHXgKIQ)
 
 ---
 
