@@ -59,6 +59,10 @@ Demonstrar a evolução de acesso a computadores nos últimos 10 anos.
 
 ---
 
+## Este é meu notebook no Kaggle para quem se interessar em usa-lo como base.
+O dataset contém outros países, no qual seria interessante fazer algumas análises comparativas entre países.
+* [Kaggle](https://www.kaggle.com/code/sabrinaroses/brazil-computer-acess-by-type)
+
 ## 📬 Contato
 
 💼 [LinkedIn](https://www.linkedin.com/in/sabrinaroses/)
